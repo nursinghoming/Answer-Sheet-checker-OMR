@@ -2,7 +2,7 @@
 ## By Soniya Singhal ##
 Table template based answer sheet checker
 
-The main file is MyGui.m, others are called subsequently.
+The main file is MyGuiM.m, others are called subsequently.
 
 
 Assumptions made in this app-
@@ -19,7 +19,7 @@ Features-
 5)The generated xls can be used for later uses.
 
 How To Use-
-1)Run MyGui.m.Check templates on which it will work.
+1)Run MyGuiM.m.Check templates on which it will work.
 2)Enter 'Number of' Questions & Choices in left side of GUI.
 3)Click on 'Answers' button & fill in or upload an existing ans file saved earlier.
 Note:if loaded ans file differ in the number of questions or choices that you have provided, it throws an error. Also, 'Save Answers' will save the answers irrespective of the values being valid or not. But while submitting answers for evaluation, you have to make sure that the vlaid values are entered.
